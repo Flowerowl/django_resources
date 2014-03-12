@@ -10,3 +10,7 @@ django_resources
 2. Django's CBVs were a mistake 
 
 	http://lukeplant.me.uk/blog/posts/djangos-cbvs-were-a-mistake/
+
+3. Djangopackages
+
+	http://www.djangopackages.com/
