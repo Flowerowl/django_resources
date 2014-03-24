@@ -14,3 +14,7 @@ django_resources
 3. Djangopackages
 
 	http://www.djangopackages.com/
+
+4. Effective Django
+
+	http://effectivedjango.com/
