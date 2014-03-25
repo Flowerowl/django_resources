@@ -18,3 +18,7 @@ django_resources
 4. Effective Django
 
 	http://effectivedjango.com/
+
+5. Using Django's low-level ORM query methods directly in a view is (usually) an anti-pattern.
+	
+	http://dabapps.com/blog/higher-level-query-api-django-orm/
