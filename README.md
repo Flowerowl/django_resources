@@ -22,3 +22,7 @@ django_resources
 5. Using Django's low-level ORM query methods directly in a view is (usually) an anti-pattern.
 	
 	http://dabapps.com/blog/higher-level-query-api-django-orm/
+
+6. How SQL Helped Me Learn Python and the Django ORM
+
+	https://medium.com/on-coding/16c9a118f656
