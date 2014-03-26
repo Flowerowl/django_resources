@@ -26,3 +26,8 @@ django_resources
 6. How SQL Helped Me Learn Python and the Django ORM
 
 	https://medium.com/on-coding/16c9a118f656
+
+7. Advanced Django ORM techniques
+
+	http://www.slideshare.net/danielroseman/advanced-django-orm-techniques
+
