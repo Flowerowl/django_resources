@@ -1,4 +1,4 @@
-django_resources
+jango_resources
 ================
 
 收集一些django的学习资料
@@ -31,3 +31,6 @@ django_resources
 
 	http://www.slideshare.net/danielroseman/advanced-django-orm-techniques
 
+8. Web API performance: profiling Django REST framework
+
+	http://www.dabapps.com/blog/api-performance-profiling-django-rest-framework/
