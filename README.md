@@ -34,3 +34,7 @@ jango_resources
 8. Web API performance: profiling Django REST framework
 
 	http://www.dabapps.com/blog/api-performance-profiling-django-rest-framework/
+
+9. Django and MySQL
+
+	http://www.ewencp.org/blog/django-and-mysql-isolation-levels/
