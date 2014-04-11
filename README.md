@@ -42,3 +42,7 @@ jango_resources
 10. Wordpress and Django: best buddies
 
 	http://agiliq.com/blog/2010/01/wordpress-and-django-best-buddies/
+
+11. Scaling Django to 8 Billion Page Views
+
+	http://blog.disqus.com/post/62187806135/scaling-django-to-8-billion-page-views
