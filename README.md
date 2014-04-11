@@ -38,3 +38,7 @@ jango_resources
 9. Django and MySQL
 
 	http://www.ewencp.org/blog/django-and-mysql-isolation-levels/
+
+10. Wordpress and Django: best buddies
+
+	http://agiliq.com/blog/2010/01/wordpress-and-django-best-buddies/
