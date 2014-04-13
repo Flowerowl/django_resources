@@ -46,3 +46,7 @@ jango_resources
 11. Scaling Django to 8 Billion Page Views
 
 	http://blog.disqus.com/post/62187806135/scaling-django-to-8-billion-page-views
+
+12. Simplifying the Testing of Unmanaged Database Models in Django
+
+	http://www.caktusgroup.com/blog/2010/09/24/simplifying-the-testing-of-unmanaged-database-models-in-django/
