@@ -50,3 +50,7 @@ jango_resources
 12. Simplifying the Testing of Unmanaged Database Models in Django
 
 	http://www.caktusgroup.com/blog/2010/09/24/simplifying-the-testing-of-unmanaged-database-models-in-django/
+
+13. Performance and optimization
+
+	https://docs.djangoproject.com/en/dev/topics/performance/
