@@ -54,3 +54,7 @@ jango_resources
 13. Performance and optimization
 
 	https://docs.djangoproject.com/en/dev/topics/performance/
+
+14. Welcome to Django by Example
+
+	http://lightbird.net/dbe2/
