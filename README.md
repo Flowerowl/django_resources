@@ -58,3 +58,7 @@ jango_resources
 14. Welcome to Django by Example
 
 	http://lightbird.net/dbe2/
+
+15. Whats the best way to start learning django?
+
+	http://stackoverflow.com/questions/4048973/whats-the-best-way-to-start-learning-django
