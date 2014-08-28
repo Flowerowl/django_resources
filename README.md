@@ -62,3 +62,7 @@ jango_resources
 15. Whats the best way to start learning django?
 
 	http://stackoverflow.com/questions/4048973/whats-the-best-way-to-start-learning-django
+
+16. Change object after saving all inlines in Django Admin
+
+	http://igorsobreira.com/2011/02/12/change-object-after-saving-all-inlines-in-django-admin.html
